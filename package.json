@@ -1,0 +1,13 @@
+{
+    "name": "renovate-bugs",
+    "version": "0.0.0-SNAPSHOT",
+    "description": "",
+    "dependencies": {
+        "lodash": "4.14.1"
+    },
+    "devDependencies": {
+        "@types/jest": "24.0.22",
+        "@types/lodash": "4.14.148",
+        "jest": "24.0.0"
+    }
+}
