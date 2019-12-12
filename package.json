@@ -9,6 +9,7 @@
     "devDependencies": {
         "@types/jest": "24.0.22",
         "@types/lodash": "4.14.149",
+        "@types/node": "12.12.6",
         "@types/request": "2.48.0",
         "jest": "24.9.0"
     }
