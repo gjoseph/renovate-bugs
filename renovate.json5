@@ -7,4 +7,5 @@
   ],
   prHourlyLimit: 50,
   prCommitsPerRunLimit: 50,
+  unicodeEmoji: true
 }
